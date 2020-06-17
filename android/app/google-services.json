@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86805882851",
+    "firebase_url": "https://course-scheduler-e52d1.firebaseio.com",
+    "project_id": "course-scheduler-e52d1",
+    "storage_bucket": "course-scheduler-e52d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86805882851:android:33a1fe1989af164da622d6",
+        "android_client_info": {
+          "package_name": "com.example.rpi_course_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86805882851-1v3si8gli1nvsrctfua6kqh2rdvmdjf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJMq6PEL0Cdc24m_TWt5pHeywobepDFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86805882851-1v3si8gli1nvsrctfua6kqh2rdvmdjf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
